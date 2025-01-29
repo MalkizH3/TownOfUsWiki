@@ -1,0 +1,17 @@
+{
+    "name": "Tracker",
+    "color": "#009900",
+    "team": "crewmate",
+    "icon": "icons/tracker.png",
+    "description": "Crewmate, który za pomocą swojej umiejętności może śledzić innych graczy podczas rundy. Gdy zacznie kogoś śledzić, strzałka będzie wskazywać położenie tej osoby, aktualizując się w określonych odstępach czasu.",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "Track (Namierzaj)",
+            "icon": "abilities/Track.png"
+        }
+    ],
+    "tip": "Namierzaj podejrzanych. Podczas spotkania weryfikuj wersje wydarzeń."
+}

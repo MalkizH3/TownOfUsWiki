@@ -1,0 +1,17 @@
+{
+    "name": "Warden",
+    "color": "#9900FF",
+    "team": "crewmate",
+    "icon": "icons/warden.png",
+    "description": "TODO",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": "TODO"
+}

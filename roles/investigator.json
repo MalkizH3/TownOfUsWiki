@@ -1,0 +1,17 @@
+{
+    "name": "Investigator",
+    "color": "#00B2B2",
+    "team": "crewmate",
+    "icon": "icons/investigator.png",
+    "description": "Crewmate, który może widzieć ślady stóp graczy. Każdy ślad znika po określonym czasie.",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": "Sprawdzaj wentylacje. Jeżeli widać ślady zmierzające w ich kierunku, wniosek jest prosty..."
+}

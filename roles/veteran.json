@@ -1,0 +1,17 @@
+{
+    "name": "Veteran",
+    "color": "#998033",
+    "team": "crewmate",
+    "icon": "icons/veteran.png",
+    "description": "Crewmate, który może przejść w tryb czujności. Gdy Veteran jest w trybie czujności, każda osoba, niezależnie od tego, czy jest Crewmate'em, Neutralem, czy Impostorem, jeśli wejdzie w interakcję z Veteranem, umrze.",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "Safeguard (Czujność)",
+            "icon": "abilities/vest.png"
+        }
+    ],
+    "tip": "Używaj zdolności w miejscach szczególnie odosobnionych. To są idealne miejsca na zbrodnie..."
+}

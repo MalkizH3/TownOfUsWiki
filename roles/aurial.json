@@ -1,0 +1,17 @@
+{
+    "name": "Aurial",
+    "color": "#B23CB3",
+    "team": "crewmate",
+    "icon": "icons/aurial.png",
+    "description": "Crewmate, który potrafi wyczuwać rzeczy w swojej aurze. Jeśli którykolwiek gracz w pobliżu Auriala użyje przycisku zdolności, Aurial otrzyma strzałkę wskazującą, gdzie ta zdolność została użyta. Jeżeli stanie się to wystarczająco blisko, to strzałka będzie miała kolor gracza który użył zdolności.",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": "Staraj się trzymać w większych grupach, jest duże prawdopodobieństwo, że ktoś użyje tam swojej zdolności."
+}

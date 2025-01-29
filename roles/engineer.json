@@ -1,0 +1,23 @@
+{
+    "name": "Engineer",
+    "color": "#FFA604",
+    "team": "crewmate", 
+    "icon": "icons/engineer.png",
+    "description": "Crewmate który może używać wentylacji. Może naprawiać sabotaże z dowolnego miejsca na mapie.",
+    "settings": [
+        "Engineer Vent Cooldown: 20s",
+        "Engineer Vent Duration: 15s",
+        "Engineer Fix Per Round: 3"
+    ],
+    "abilities": [
+        {
+            "name": "Vent (Wentylacja)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Fix Sabotage (Napraw Sabotaż)",
+            "icon": "abilities/Engineer.png"
+        }
+    ],
+    "tip": "Obserwuj graczy siedząc w wentylacji."
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Morphling",
+    "color": "#ff0000",
+    "team": "impostor", 
+    "icon": "icons/morphling.png",
+    "description": "Impostor, który może przebierać się za innych graczy. Poza spotkaniem może pobrać próbkę DNA od dowolnego gracza. Gdy to zrobi, zyskuje możliwość transformacji w wybranego wcześniej gracza. Nie może używać wentylacji.",
+    "settings": [
+        "Morphling Cooldown: 25s",
+        "Morphling Duration: 10s",
+        "Morphling Can Vent: ✗"
+    ],
+    "abilities": [
+        {
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Sample (Pobierz próbkę DNA)",
+            "icon": "abilities/Sample.png"
+        },
+        {
+            "name": "Mimic (Przebierz się)",
+            "icon": "abilities/Mimic.png"
+        }
+    ],
+    "tip": "gdy jesteś w przebraniu, nie pokazuj się w otoczeniu oryginału."
+}

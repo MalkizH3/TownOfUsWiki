@@ -1,0 +1,17 @@
+{
+    "name": "Spy",
+    "color": "#CCA3CC",
+    "team": "crewmate",
+    "icon": "icons/spy.png",
+    "description": "Crewmate, który zdobywa dodatkowe informacje podczas korzystania z Panelu Admina. <br>Przy Panelu Admina Spy może zobaczyć kolory wszystkich graczy na mapie.",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "Brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": "Panel Admina dla ciebie jest skarbnicą ważnych informacji. Zwróć uwagę na szybkie przemieszczanie, to prawdodobnie impostor w wentylacji."
+}

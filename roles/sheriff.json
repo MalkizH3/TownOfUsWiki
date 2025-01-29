@@ -1,0 +1,21 @@
+{
+    "name": "Sheriff",
+    "color": "#FFFF00",
+    "team": "crewmate",
+    "icon": "icons/sheriff.png",
+    "description": "Crewmate, który posiada umiejętność zabijania ról Impostorskich, Neutralnych zabijających oraz Neutralnych złych. Jeśli spróbujesz zabić niewinnego gracza, umrzesz.",
+    "settings": [
+        "Sheriff Miskill Kills Crewmate: ✗",
+        "Sheriff Kills Neutral Evil Roles: ✓",
+        "Sheriff Kills Neutral Killing Roles: ✓",
+        "Sheriff Kill Cooldown: Timer Impostora -2,5s",
+        "Sheriff Can Report Who They've Killed: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        }
+    ],
+    "tip": "Nie zabijaj, jeżeli nie masz żadnych podejrzeń. Twoje życie jest zbyt cenne."
+}

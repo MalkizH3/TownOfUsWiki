@@ -1,0 +1,17 @@
+{
+    "name": "Seer",
+    "color": "#FFCC80",
+    "team": "crewmate",
+    "icon": "icons/seer.png",
+    "description": "Crewmate, który może sprawdzić przynależność drużynową innego gracza. Po użyciu zdolności, nick sprawdzanego gracza zmienia kolor:<br>Na <span style='color: #00ff00;'>Zielony</span> – jeśli gracz należy do drużyny Crewmate'ów.<br>Na <span style='color: #ff0000;'>Czerwony</span> – jeśli gracz ma inną rolę (Impostor lub neutralną).",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "Reveal (Odkryj)",
+            "icon": "abilities/Seer.png"
+        }
+    ],
+    "tip": "Sprawdzaj graczy, co do których masz największe wątpliwości."
+}
