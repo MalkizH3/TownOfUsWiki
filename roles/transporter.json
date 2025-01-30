@@ -1,0 +1,17 @@
+{
+    "name": "Transporter",
+    "color": "#FF0000",
+    "team": "crewmate",
+    "icon": "icons/transporter.png",
+    "description": "TODO",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": "TODO"
+}
