@@ -1,6 +1,6 @@
 async function loadRoles() {
     const roleFiles = 
-    ["aurial.json", "engineer.json", "investigator.json", "jailor.json", "medic.json", "morphling.json", "mystic.json", "oracle.json", "politician.json", "seer.json", "sheriff.json", "snitch.json", "spy.json", "swapper.json", "tracker.json", "transporter.json", "trapper.json", "veteran.json", "vigilante.json", "warden.json"]
+    ["aurial.json", "engineer.json", "investigator.json", "jailor.json", "medic.json", "medium.json", "morphling.json", "mystic.json", "oracle.json", "politician.json", "prosecutor.json", "seer.json", "sheriff.json", "snitch.json", "spy.json", "swapper.json", "tracker.json", "transporter.json", "trapper.json", "veteran.json", "vigilante.json", "warden.json"]
     const roles = await Promise.all(
         roleFiles.map(async (file) => {
             const response = await fetch(`roles/${file}`);
