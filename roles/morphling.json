@@ -19,8 +19,8 @@
             "icon": "abilities/Sample.png"
         },
         {
-            "name": "Mimic (Przebierz się)",
-            "icon": "abilities/Mimic.png"
+            "name": "Morph (Przebierz się)",
+            "icon": "abilities/Morph.png"
         }
     ],
     "tip": "gdy jesteś w przebraniu, nie pokazuj się w otoczeniu oryginału."
