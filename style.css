@@ -315,3 +315,33 @@ html {
         scrollbar-width: none;
     }
 }
+@media (max-width: 768px) {
+    .role-name {
+        font-size: 50px; /* Powiększenie nazwy roli */
+        text-align: center;
+    }
+
+    .role-content {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .role-description {
+        order: 1;
+        font-size: 24px;
+        text-align: justify;
+    }
+
+    .ability-list {
+        order: 2;
+    }
+
+    .tip {
+        order: 3;
+    }
+
+    .settings-list {
+        order: 4;
+    }
+}
