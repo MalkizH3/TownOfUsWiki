@@ -1,0 +1,17 @@
+{
+    "name": "Politician",
+    "color": "#FF0000",
+    "team": "crewmate",
+    "icon": "icons/politician.png",
+    "description": "TODO",
+    "settings": [
+        "TODO"
+    ],
+    "abilities": [
+        {
+            "name": "Track (Namierzaj)",
+            "icon": "abilities/Track.png"
+        }
+    ],
+    "tip": "TODO"
+}
