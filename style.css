@@ -255,3 +255,63 @@ html {
     scrollbar-width: auto;       /* Cienki suwak */
     scrollbar-color: rgba(25, 25, 32, 0.8) rgba(19, 19, 24, 0.6);  /* Kolor suwaka i tła w Firefoxie */
 }
+
+/* Mobile Update */
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .role-content {
+        grid-template-columns: 1fr; /* Zmiana na jedną kolumnę */
+        gap: 10px;
+        margin-left: 0;
+    }
+
+    .role-icon {
+        width: 80px;
+        height: 80px;
+    }
+
+    .role-icon img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .role-name {
+        font-size: 40px;
+    }
+
+    .team-label {
+        font-size: 20px;
+    }
+
+    .role-description {
+        font-size: 22px;
+    }
+
+    .settings-list h4,
+    .ability-list h4 {
+        font-size: 30px;
+    }
+}
+@media (max-width: 768px) {
+    #searchInput {
+        font-size: 18px;
+        padding: 10px;
+    }
+
+    .header h1 {
+        font-size: 35px;
+    }
+}
+@media (max-width: 768px) {
+    ::-webkit-scrollbar {
+        display: none;
+    }
+
+    html {
+        scrollbar-width: none;
+    }
+}
