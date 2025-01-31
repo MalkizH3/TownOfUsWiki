@@ -11,7 +11,7 @@
     "abilities": [
         {
             "name": "Prosecute (Oskarż)",
-            "icon": "abilities/none.png"
+            "icon": "abilities/Prosecute.png"
         }
     ],
     "tip": ""
