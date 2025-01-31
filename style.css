@@ -147,8 +147,8 @@ body {
     color: #ff0000;
 }
 .team-neutral .team-label { 
-    background: rgba(255, 255, 0, 0.2);
-    color: #ffff00;
+    background: rgba(90, 90, 90, 0.2);
+    color: #a7a7a7;
 }
 
 .role-content {
@@ -159,6 +159,7 @@ body {
 }
 
 .role-description {
+    text-align: justify;
     font-size: 27px;
     line-height: 1.5;
     margin-bottom: 20px;
@@ -227,36 +228,31 @@ body {
     margin-top: 5px;
 }
 
-
-
-/* Stylizacja suwaka w przeglądarkach WebKit (Chrome, Edge, Safari) */
+/* suwak */
 ::-webkit-scrollbar {
-    width: 20px;  /* Szerokość suwaka */
+    width: 20px; 
 }
 
-/* Tło suwaka */
 ::-webkit-scrollbar-track {
-    background-color: rgba(31, 31, 44, 0.1); /* Półprzezroczyste szarogranatowe tło */
+    background-color: rgba(31, 31, 44, 0.1); 
 }
 
-/* Kolor samego suwaka */
 ::-webkit-scrollbar-thumb {
-    background-color: rgba(26, 26, 34, 0.1);  /* Półprzezroczysty ciemny szarogranatowy */
-    border-radius: 10px;  /* Zaokrąglone krawędzie */
+    background-color: rgba(26, 26, 34, 0.1); 
+    border-radius: 10px;  
 }
 
-/* Kolor suwaka przy najechaniu */
 ::-webkit-scrollbar-thumb:hover {
-    background-color: rgb(18, 18, 22);  /* Pełny ciemny szarogranatowy przy najechaniu */
+    background-color: rgb(18, 18, 22);  
 }
 
 /* Stylizacja suwaka w Firefoxie */
 html {
-    scrollbar-width: auto;       /* Cienki suwak */
-    scrollbar-color: rgba(25, 25, 32, 0.8) rgba(19, 19, 24, 0.6);  /* Kolor suwaka i tła w Firefoxie */
+    scrollbar-width: auto; 
+    scrollbar-color: rgba(25, 25, 32, 0.8) rgba(19, 19, 24, 0.6);  
 }
 
-/* Mobile Update */
+/* Mobile Update 
 
 @media (max-width: 768px) {
     body {
@@ -264,7 +260,7 @@ html {
     }
 
     .role-content {
-        grid-template-columns: 1fr; /* Zmiana na jedną kolumnę */
+        grid-template-columns: 1fr; 
         gap: 10px;
         margin-left: 0;
     }
@@ -294,6 +290,7 @@ html {
     .settings-list h4,
     .ability-list h4 {
         font-size: 30px;
+        margin-bottom: 0;
     }
 }
 @media (max-width: 768px) {
@@ -317,7 +314,11 @@ html {
 }
 @media (max-width: 768px) {
     .role-name {
-        font-size: 50px; /* Powiększenie nazwy roli */
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .team-label {
         text-align: center;
     }
 
@@ -344,4 +345,4 @@ html {
     .settings-list {
         order: 4;
     }
-}
+} */
