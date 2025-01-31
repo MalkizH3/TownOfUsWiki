@@ -13,8 +13,12 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Rampage (Szał)",
+            "icon": "abilities/Rampage.png"
         }
     ],
     "tip": ""

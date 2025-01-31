@@ -20,6 +20,10 @@
             "icon": "abilities/Kill.png"
         },
         {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
             "name": "Hacker (Zhakuj)",
             "icon": "abilities/Hack.png"
         },

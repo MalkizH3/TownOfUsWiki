@@ -22,6 +22,10 @@
             "icon": "abilities/Vent.png"
         },
         {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
+        },
+        {
             "name": "Flash (Oślep)",
             "icon": "abilities/Flash.png"
         }
