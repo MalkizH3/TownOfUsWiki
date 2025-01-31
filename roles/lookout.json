@@ -3,14 +3,17 @@
     "color": "#33FF66",
     "team": "crewmate",
     "icon": "icons/lookout.png",
-    "description": "soon",
+    "description": "Crewmate, który może obserwować innych graczy podczas rundy. Podczas spotkania zobaczy wszystkie role, które wchodziły w interakcję z obserwowanym graczem.",
     "settings": [
-        "Probability Of Appearing: x%"
+        "Probability Of Appearing: x%",
+        "Watch Cooldown: 25,0s",
+        "Lookout Watches Reset After Each Round: ✓",
+        "Maximum Number Of Players That Can Be Watched: 5"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Watch (Obserwuj)",
+            "icon": "abilities/Watch.png"
         }
     ],
     "tip": ""
