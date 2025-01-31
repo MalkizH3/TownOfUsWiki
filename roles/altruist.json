@@ -3,7 +3,7 @@
     "color": "#660000",
     "team": "crewmate",
     "icon": "icons/altruist.png",
-    "description": "Crewmate, który ma zdolność wskrzeszania martwych graczy. Po znalezieniu martwego ciała, Altruist może poświęcić siebie dla wskrzeszenia innego gracza. Jeśli wskrzeszenie zostanie aktywowane, martwe ciało znika, pozostawiając tylko ciało Altruista na miejscu. Po określonym czasie gracz zostanie wskrzeszony, o ile proces wskrzeszenia nie zostanie w jakiś sposób przerwany.",
+    "description": "Crewmate, który ma zdolność wskrzeszania martwych graczy. Po znalezieniu martwego ciała, Altruist może poświęcić siebie dla wskrzeszenia innego gracza. Jeśli wskrzeszenie zostanie aktywowane, martwe ciało znika, pozostawiając tylko ciało Altruisty na miejscu. Po określonym czasie gracz zostanie wskrzeszony, o ile proces wskrzeszenia nie zostanie w jakiś sposób przerwany.",
     "settings": [
         "Probability Of Appearing: x%",
         "Altruist Revive Duration: 1s",

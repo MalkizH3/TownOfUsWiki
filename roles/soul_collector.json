@@ -3,14 +3,14 @@
     "color": "#12e2bb",
     "team": "neutral",
     "icon": "icons/soul_collector.png",
-    "description": "soon",
+    "description": "Neutralna rola z własnym warunkiem zwycięstwa. Celem Soul Collectora jest zebranie określonej liczby dusz pobierając je od martwych ciał.",
     "settings": [
         "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Collect (Zbierz)",
+            "icon": "abilities/Collect.png"
         }
     ],
     "tip": ""
