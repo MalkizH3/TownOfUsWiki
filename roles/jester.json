@@ -3,7 +3,7 @@
     "color": "#FFBFCF",
     "team": "neutral",
     "icon": "icons/jester.png",
-    "description": "Neutralna rola z własnym warunkiem zwycięstwa. Jeśli zostanie wygnany po spotkaniu, gra kończy się, a Jester wygrywa. Jester nie wygrywa, jeśli zwyciężą Crewmates, Impostorzy lub inna neutralna rola.",
+    "description": "Neutralna rola z własnym warunkiem zwycięstwa. Jester wygrywa tylko wtedy, gdy zostanie wygnany podczas głosowania. Przegrywa, jeśli zwyciężą Crewmates, Impostorzy lub inna neutralna rola. <br>Może chować się w wentylacji, ale nie może się nią poruszać.",
     "settings": [
         "Probability Of Appearing: x%",
         "Jester Can Button: ✓",
