@@ -36,6 +36,22 @@ body {
     background-repeat: no-repeat; 
     background-attachment: fixed; 
 }
+.discord-badge {
+    z-index: 1000;
+    position: fixed;
+    top: .5em;
+    right: .5em;
+    border-radius: 10px;
+    background: rgb(88, 101, 242);
+    color: white;
+    width: 2em;
+    height: 2em;
+    padding: 0 8px;
+
+    &:hover {
+        box-shadow: 0 0 8px 8px rgba(88, 101, 242, 0.35);
+    }
+}
 .header h1 {
     font-size: 50px;
     font-weight: bold; 
