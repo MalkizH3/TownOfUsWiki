@@ -3,14 +3,14 @@
     "color": "#747474",
     "team": "neutral",
     "icon": "icons/vampire.png",
-    "description": "soon",
+    "description": "Neutralna rola z własnym warunkiem zwycięstwa. Vampire może konwertować lub zabijać innych graczy poprzez ugryzienie. <br>Jeżeli w grze jest jeden żywy wampir, ugryzienie Crewmate zamieni go w drugiego vampira. Jeżeli w grze jest dwóch wampirów lub cel nie jest Crewmate'em, ugryziony umrze.",
     "settings": [
         "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Bite (Ugryź)",
+            "icon": "abilities/Bite.png"
         }
     ],
     "tip": ""

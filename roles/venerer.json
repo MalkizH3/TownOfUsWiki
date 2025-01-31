@@ -3,14 +3,34 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/venerer.png",
-    "description": "soon",
+    "description": "Venerer to Impostor, który zdobywa zdolności poprzez zabijanie. <br>Po swoim pierwszym zabójstwie, Venerer może się zakamuflować. <br>Po drugim zabójstwie, Venerer może szybciej biegać. <br>Po trzecim zabójstwie, po aktywowaniu zdolności, wszyscy inni gracze są spowolnieni. Wszystkie zdolności są aktywowane jednym przyciskiem i mają tę samą długość trwania.",
     "settings": [
         "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
+        },
+        {
+            "name": "Camouflage (Kamuflaż)",
+            "icon": "abilities/Camouflage.png"
+        },
+        {
+            "name": "Camouflage + Sprint (Kamuflaż + Sprint)",
+            "icon": "abilities/CamoSprint.png"
+        },
+        {
+            "name": "Camouflage + Sprint + Freeze (Kamuflaż + Sprint + Spowolnienie)",
+            "icon": "abilities/CamoSprintFreeze.png"
         }
     ],
     "tip": ""

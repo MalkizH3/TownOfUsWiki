@@ -3,14 +3,24 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/traitor.png",
-    "description": "soon",
+    "description": "Jeśli wszyscy Impostorzy zginą przed określonym momentem w grze, losowy Crewmate zostaje wybrany na Traitora. Traitor nie ma dodatkowych zdolności, a jego zadaniem jest pomścić martwych Impostorów. Po przemianie w Traitora, gracz dołącza do drużyny Impostorów.",
     "settings": [
-        "Probability Of Appearing: x%"
+        "Probability Of Appearing: x%",
+        "Minimum People Alive When Traitor Can Spawn: 5",
+        "Traitor Won't Spawn if Neutral Killing are Alive: False"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
         }
     ],
     "tip": ""

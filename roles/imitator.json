@@ -3,14 +3,14 @@
     "color": "#B3D94D",
     "team": "crewmate",
     "icon": "icons/imitator.png",
-    "description": "soon",
+    "description": "Crewmate, który może naśladować martwych Crewmate’ów. Podczas spotkań Imitator może wybrać, kogo z martwych graczy będzie naśladować w następnej rundzie. Może używać zdolności każdego martwego gracza tyle razy, ile chce.",
     "settings": [
         "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Imitate (Naśladuj)",
+            "icon": "abilities/ImitateSelect.png"
         }
     ],
     "tip": ""

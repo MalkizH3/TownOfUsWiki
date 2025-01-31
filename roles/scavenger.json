@@ -3,14 +3,26 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/scavenger.png",
-    "description": "soon",
+    "description": "Impostor, który poluje na ofiary. W trakcie gry losuje mu się cel, który powinien zabić. Z każdym zabójstwem celu, czas odnowienia zabójstwa Scavengera skraca się. W przypadku błędnego zabójstwa czas odnowienia zabójstwa Scavengera znacznie się wydłuża.",
     "settings": [
-        "Probability Of Appearing: x%"
+        "Probability Of Appearing: x%",
+        "Scavenge Duration: 25,0s",
+        "Scavenge Duration Increase Per Kill: 10,0s",
+        "Scavenge Kill Cooldown On Correct Kill: 10,0s",
+        "Kill Cooldown Multiplier On Incorrect Kill: x3"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
         }
     ],
     "tip": ""
