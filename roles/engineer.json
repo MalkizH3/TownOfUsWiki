@@ -5,9 +5,8 @@
     "icon": "icons/engineer.png",
     "description": "Crewmate który może używać wentylacji. Może naprawiać sabotaże z dowolnego miejsca na mapie.",
     "settings": [
-        "Engineer Vent Cooldown: 20s",
-        "Engineer Vent Duration: 15s",
-        "Engineer Fix Per Round: 3"
+        "Probability Of Appearing: x%",
+        "Maximum Number Of Fixes: 3"
     ],
     "abilities": [
         {

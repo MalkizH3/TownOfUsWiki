@@ -1,0 +1,20 @@
+{
+    "name": "Plaguebearer",
+    "color": "#E6FFB3",
+    "team": "neutral",
+    "icon": "icons/plaguebearer.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Infect Cooldown: 25,0s",
+        "Pestilence Kill Cooldown: 27,5s",
+        "Pestilence Can Vent: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

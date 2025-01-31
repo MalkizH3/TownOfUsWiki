@@ -1,0 +1,21 @@
+{
+    "name": "Undertaker",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/undertaker.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Drag Cooldown: 25,0s",
+        "Undertaker Drag Speed: 1,0x",
+        "Undertaker Can Vent: ✓",
+        "Undertaker Can Vent While Dragging: ✗"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

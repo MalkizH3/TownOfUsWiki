@@ -1,0 +1,17 @@
+{
+    "name": "Hunter",
+    "color": "#29AA88",
+    "team": "crewmate",
+    "icon": "icons/hunter.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

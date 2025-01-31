@@ -5,7 +5,12 @@
     "icon": "icons/investigator.png",
     "description": "Crewmate, który może widzieć ślady stóp graczy. Każdy ślad znika po określonym czasie.",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Footprint Size: 4",
+        "Footprint Interval: 0,1s",
+        "Footprint Duration: 7,0s",
+        "Anonymous Footprint: ✗",
+        "Footprint Vent Visible: ✓"
     ],
     "abilities": [
         {

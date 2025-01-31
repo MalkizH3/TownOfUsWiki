@@ -1,0 +1,22 @@
+{
+    "name": "Grenadier",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/grenadier.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Flash Grenade Cooldown: 25,0s",
+        "Flash Grenade Duration: 7,0s",
+        "Flash Radius: 1,0x",
+        "Indicate Flashed Crewmates: ✓",
+        "Grenadier Can Vent: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

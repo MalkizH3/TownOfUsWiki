@@ -1,17 +1,21 @@
 {
     "name": "Medium",
-    "color": "#FF0000",
+    "color": "#A680FF",
     "team": "crewmate",
     "icon": "icons/medium.png",
-    "description": "TODO",
+    "description": "Crewmate, który może widzieć duchy. W każdej rundzie Medium może użyć zdolności mediacji. Jeśli użyje jej, gdy wszyscy żyją, nic się nie stanie. Jednak jeśli ktoś już nie żyje, Medium i martwy gracz będą mogli się zobaczyć oraz komunikować zza grobu.",  
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Mediate Cooldown: 20s",
+        "Reveal Appearance Of Mediate Target: ✓",
+        "Reveal The Medium To The Mediate Target: ✓",
+        "Who Is Revealed With Mediate: Newest Dead"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Mediate (Dokonaj mediacji) ",
+            "icon": "abilities/Mediate.png"
         }
     ],
-    "tip": "TODO"
+    "tip": "Obserwuj co duch próbuje ci przekazać. Być może lata za swoim mordercą? A może rysuje jakiś napis?"
 }

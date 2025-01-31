@@ -1,11 +1,12 @@
 {
     "name": "Prosecutor",
-    "color": "#FF0000",
+    "color": "#B38000",
     "team": "crewmate",
     "icon": "icons/prosecutor.png",
-    "description": "TODO",
+    "description": "soon",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Prosecutor Dies When Tey Exile A Crewmate: ✓"
     ],
     "abilities": [
         {
@@ -13,5 +14,5 @@
             "icon": "abilities/none.png"
         }
     ],
-    "tip": "TODO"
+    "tip": ""
 }

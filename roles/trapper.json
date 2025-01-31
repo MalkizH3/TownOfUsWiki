@@ -5,7 +5,13 @@
     "icon": "icons/trapper.png",
     "description": "Crewmate, który może ustawiać pułapki na mapie. Kiedy conajmniej 3 graczy (razem lub osobno) znajdzie się wewnątrz pułapki przez minimum 1 sekundę, aktywują ją. Podczas następnego spotkania, role graczy którzy aktywowali pułapkę zostaną ujawnione Trapperowi. Jednak robi się to w losowej kolejności, bez wskazywania, kto wszedł w pułapkę i bez ujawniania, jaka rola należy do konkretnego gracza.",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Min Amount Of Time In Trap To Register: 0,5s",
+        "Trap Cooldown: 25,0s",
+        "Traps Removed After Each Round: ✓",
+        "Maximum Number Of Traps: 5",
+        "Trap Size: 0,25x",
+        "Minimum Number Of Roles Required To Trigger Trap: 3"
     ],
     "abilities": [
         {

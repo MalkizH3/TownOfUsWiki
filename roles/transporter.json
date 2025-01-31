@@ -1,11 +1,14 @@
 {
     "name": "Transporter",
-    "color": "#FF0000",
+    "color": "#00ECFF",
     "team": "crewmate",
     "icon": "icons/transporter.png",
-    "description": "TODO",
+    "description": "soon",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Transport Cooldown: 25,0s",
+        "Maximum Number Of Transports: 5",
+        "Transporter Can Use Vitals: ✗"
     ],
     "abilities": [
         {
@@ -13,5 +16,5 @@
             "icon": "abilities/none.png"
         }
     ],
-    "tip": "TODO"
+    "tip": ""
 }

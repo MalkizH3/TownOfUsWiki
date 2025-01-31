@@ -1,0 +1,22 @@
+{
+    "name": "Bomber",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/bomber.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Detonate Delay: 5,0s",
+        "Max Kills In Detonation: 10",
+        "Detonate Radius: 0,25x",
+        "Bomber Can Vent: ✓",
+        "All Impostors See Bomb: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

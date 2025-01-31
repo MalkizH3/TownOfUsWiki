@@ -1,0 +1,17 @@
+{
+    "name": "Imitator",
+    "color": "#B3D94D",
+    "team": "crewmate",
+    "icon": "icons/imitator.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

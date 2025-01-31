@@ -1,0 +1,20 @@
+{
+    "name": "Swooper",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/swooper.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Swoop Cooldown: 25,0s",
+        "Swoop Duration: 10,0s",
+        "Swooper Can Vent: ✗"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

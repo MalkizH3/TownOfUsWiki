@@ -1,16 +1,21 @@
 {
     "name": "Politician",
-    "color": "#FF0000",
+    "color": "#660099",
     "team": "crewmate",
     "icon": "icons/politician.png",
-    "description": "TODO",
+    "description": "Crewmate, który może prowadzić kampanię wśród innych graczy. Gdy co najmniej połowa Crewmate’ów zostanie przekonana, Politician może ujawnić się jako nowy Mayor. Jeśli jednak mniej niż połowa Crewmate’ów zostanie przekonana, ujawnienie się nie powiedzie, a Politician nie będzie mógł prowadzić kampanii przez 1 rundę. <br>Głos Mayora liczy się potrójnie",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Campaign Cooldown: 25,0s"
     ],
     "abilities": [
         {
-            "name": "Track (Namierzaj)",
-            "icon": "abilities/Track.png"
+            "name": "Campaign (Prowadź kampanię)",
+            "icon": "abilities/Campaign.png"
+        },
+        {
+            "name": "Reveal (Ujawnij się jako Mayor) *Na spotkaniu*",
+            "icon": "abilities/Reveal.png"
         }
     ],
     "tip": "TODO"

@@ -5,8 +5,9 @@
     "icon": "icons/morphling.png",
     "description": "Impostor, który może przebierać się za innych graczy. Poza spotkaniem może pobrać próbkę DNA od dowolnego gracza. Gdy to zrobi, zyskuje możliwość transformacji w wybranego wcześniej gracza. Nie może używać wentylacji.",
     "settings": [
-        "Morphling Cooldown: 25s",
-        "Morphling Duration: 10s",
+        "Probability Of Appearing: x%",
+        "Morphling Cooldown: 25,0x",
+        "Morphling Duration: 15,0s",
         "Morphling Can Vent: ✗"
     ],
     "abilities": [

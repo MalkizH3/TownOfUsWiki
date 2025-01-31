@@ -1,0 +1,21 @@
+{
+    "name": "Arsonist",
+    "color": "#FF4D00",
+    "team": "neutral",
+    "icon": "icons/arsonist.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Douse Cooldown: 35,0s",
+        "Maximum Alive Players Doused: 15",
+        "Arsonist Has Impostor Vision: ✓",
+        "Ignite Cooldown Removed When Arsonist Is Last Killer: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

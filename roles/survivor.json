@@ -1,0 +1,21 @@
+{
+    "name": "survivor",
+    "color": "#FFEB4D",
+    "team": "neutral",
+    "icon": "icons/survivor.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Vest Cooldown: 25,0s",
+        "Vest Duration: 10,0s",
+        "Kill Cooldown Reset On Attack: 2,5s",
+        "Maximum Number Of Vests: 5"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

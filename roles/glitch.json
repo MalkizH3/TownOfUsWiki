@@ -1,0 +1,24 @@
+{
+    "name": "Glitch",
+    "color": "#00FF00",
+    "team": "neutral",
+    "icon": "icons/glitch.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Mimic Cooldown: 25,0s",
+        "Mimic Duration: 10,0s",
+        "Hack Cooldown: 25,0s",
+        "Hack Duration: 15,0s",
+        "Glitch Kill Cooldown: 27,5s",
+        "Glitch Hack Distance: Short",
+        "Glitch Can Vent: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

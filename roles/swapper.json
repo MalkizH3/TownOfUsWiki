@@ -1,11 +1,12 @@
 {
     "name": "Swapper",
-    "color": "#FF0000",
+    "color": "#66E666",
     "team": "crewmate",
     "icon": "icons/swapper.png",
-    "description": "TODO",
+    "description": "soon",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Swapper Can Button: ✓"
     ],
     "abilities": [
         {
@@ -13,5 +14,5 @@
             "icon": "abilities/Swap.png"
         }
     ],
-    "tip": "TODO"
+    "tip": ""
 }

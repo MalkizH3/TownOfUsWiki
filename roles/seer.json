@@ -5,7 +5,13 @@
     "icon": "icons/seer.png",
     "description": "Crewmate, który może sprawdzić przynależność drużynową innego gracza. Po użyciu zdolności, nick sprawdzanego gracza zmienia kolor:<br>Na <span style='color: #00ff00;'>Zielony</span> – jeśli gracz należy do drużyny Crewmate'ów.<br>Na <span style='color: #ff0000;'>Czerwony</span> – jeśli gracz ma inną rolę (Impostor lub neutralną).",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Seer Cooldown: 40s",
+        "Crewmate Killing Roles Are Red: ✗",
+        "Neutral Benign Roles Are Red: ✓",
+        "Neutral Evil Roles Are Red: ✓",
+        "Neutral Killing Roles Are Red: ✓",
+        "Traitor Does Not Swap Colours: ✗"
     ],
     "abilities": [
         {

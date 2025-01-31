@@ -1,0 +1,19 @@
+{
+    "name": "Amnesiac",
+    "color": "#80B2FF",
+    "team": "neutral",
+    "icon": "icons/amnesiac.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Amnesiac Gets Arrows Pointing To Dead Bodies: ✓",
+        "Time After Death Arrow Appears: 1,0s"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

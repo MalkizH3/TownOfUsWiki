@@ -5,7 +5,8 @@
     "icon": "icons/mystic.png",
     "description": "Crewmate, który otrzymuje alert w postaci poświaty na ekranie, informujący o śmierci gracza. Dodatkowo przez moment wyświetla mu się strzałka wskazująca kierunek, w którym znajduje się ciało.",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Dead Body Arrow Duration: 0,1s"
     ],
     "abilities": [
         {

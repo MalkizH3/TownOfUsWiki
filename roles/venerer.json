@@ -1,0 +1,17 @@
+{
+    "name": "Venerer",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/venerer.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

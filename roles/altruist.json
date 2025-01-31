@@ -1,0 +1,19 @@
+{
+    "name": "Altruist",
+    "color": "#660000",
+    "team": "crewmate",
+    "icon": "icons/altruist.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Altruist Revive Duration: 1s",
+        "Target's Body Disappears On Beginning Of Revive: ✗"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

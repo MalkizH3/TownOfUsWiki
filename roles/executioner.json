@@ -1,0 +1,20 @@
+{
+    "name": "Executioner",
+    "color": "#8C4005",
+    "team": "neutral",
+    "icon": "icons/executioner.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Executioner Becomes On Target Dead: Jester",
+        "Executioner Can Button: ✓",
+        "Executioner Torments Player On Victory: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

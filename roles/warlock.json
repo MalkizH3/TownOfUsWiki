@@ -1,0 +1,19 @@
+{
+    "name": "Warlock",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/warlock.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Time It Takes To Fully Charge: 25,0s",
+        "Time It Takes To Use Full Charge: 1,0s"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

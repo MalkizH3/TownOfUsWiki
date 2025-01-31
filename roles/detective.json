@@ -1,0 +1,17 @@
+{
+    "name": "Detective",
+    "color": "#4D4DFF",
+    "team": "crewmate",
+    "icon": "icons/detective.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

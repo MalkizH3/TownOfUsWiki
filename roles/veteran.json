@@ -5,12 +5,16 @@
     "icon": "icons/veteran.png",
     "description": "Crewmate, który może przejść w tryb czujności. Gdy Veteran jest w trybie czujności, każda osoba, niezależnie od tego, czy jest Crewmate'em, Neutralem, czy Impostorem, jeśli wejdzie w interakcję z Veteranem, umrze.",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Can Be Killed On Alert: ✗",
+        "Alert Cooldown: 25,0s",
+        "Alert Duration: 10,0s",
+        "Maximum Number Of Alerts: 5"
     ],
     "abilities": [
         {
-            "name": "Alert (Czujność)",
-            "icon": "abilities/Alert.png"
+            "name": "Safeguard (Czujność)",
+            "icon": "abilities/vest.png"
         }
     ],
     "tip": "Używaj zdolności w miejscach szczególnie odosobnionych. To są idealne miejsca na zbrodnie..."

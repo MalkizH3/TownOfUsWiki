@@ -1,0 +1,17 @@
+{
+    "name": "Vampire",
+    "color": "#747474",
+    "team": "neutral",
+    "icon": "icons/vampire.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

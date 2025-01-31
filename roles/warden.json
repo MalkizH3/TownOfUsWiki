@@ -3,15 +3,15 @@
     "color": "#9900FF",
     "team": "crewmate",
     "icon": "icons/warden.png",
-    "description": "TODO",
+    "description": "Warden to Crewmate, który może fortyfikować innych graczy. Ufortyfikowani gracze są odporni na wszelkiego rodzaju interkacje poza zabójstwem. Jeśli ktoś spróbuje interagować z ufortyfikowanym graczem, zarówno Warden, jak i osoba próbująca interakcji, otrzymują alert.",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Fortify (Fortyfikuj)",
+            "icon": "abilities/Fortify.png"
         }
     ],
-    "tip": "TODO"
+    "tip": "Gdy nakładasz komuś fortyfikację, postaraj się to zrobić tak, żeby gracz wiedział że to ty mu ją wręczyłeś. "
 }

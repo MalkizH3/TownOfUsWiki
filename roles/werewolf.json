@@ -1,0 +1,21 @@
+{
+    "name": "Werewolf",
+    "color": "#8f4c18",
+    "team": "neutral",
+    "icon": "icons/werewolf.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Rampage Cooldown: 30,0s",
+        "Rampage Duration: 22,5s",
+        "Rampage Kill Cooldown: 7,0s",
+        "Werewolf Can Vent When Rampaged: ✗"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

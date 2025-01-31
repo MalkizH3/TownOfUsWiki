@@ -1,0 +1,21 @@
+{
+    "name": "Jester",
+    "color": "#FFBFCF",
+    "team": "neutral",
+    "icon": "icons/jester.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Jester Can Button: ✓",
+        "Jester Can Hide In Vents: ✓",
+        "Jester Has Impostor Vision: ✓",
+        "Jester Haunts Player On Victory: ✓"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

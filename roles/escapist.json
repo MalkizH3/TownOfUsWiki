@@ -1,0 +1,19 @@
+{
+    "name": "Escapist",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/escapist.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Recall Cooldown: 25,0s",
+        "Escapist Can Vent: ✗"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

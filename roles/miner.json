@@ -1,0 +1,18 @@
+{
+    "name": "Miner",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/miner.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Mine Cooldown: 25,0s"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

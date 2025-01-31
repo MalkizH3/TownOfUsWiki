@@ -1,0 +1,17 @@
+{
+    "name": "Haunter",
+    "color": "#D4D4D4",
+    "team": "crewmate",
+    "icon": "icons/Haunter.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

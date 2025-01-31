@@ -5,7 +5,11 @@
     "icon": "icons/snitch.png",
     "description": "Crewmate, który po ukończeniu wszystkich zadań otrzymuje strzałki wskazujące na Impostorów. Nicki Impostorów pojawiają się również na jego ekranie na czerwono. Jednak gdy pozostanie mu ostatnie zadanie, to Impostorzy otrzymują strzałkę wskazującą na Snitcha.",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%",
+        "Snitch Sees Neutral Roles: ✗",
+        "Tasks Remaining When Revealed: 1",
+        "Snitch Sees Impostors In Meetings: ✓",
+        "Snitch Sees Traitor: ✗"
     ],
     "abilities": [
         {

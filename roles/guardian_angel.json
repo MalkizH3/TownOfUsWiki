@@ -1,0 +1,26 @@
+{
+    "name": "Guardian Angel",
+    "color": "#B3FFFF",
+    "team": "neutral",
+    "icon": "icons/guardian_angel.png",
+    "description": "Neutralna rola, która sprzymierza się z drużyną swojego celu. Jego zadaniem jest chronić cel za wszelką cenę. Jeśli jego cel przegra, on również przegrywa.",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Protect Cooldown: 25s",
+        "Protect Duration: 10s",
+        "Kill Cooldown Reset When Protected: 2.5s",
+        "Maximum Number Of Protects: 5",
+        "Show Protected Player: GA",    
+        "Becomes On Target Dead: Amnesiac",
+        "Target Knows GA Exists: ✗",
+        "GA Knows Targets Role: ✓",
+        "Odds Of Target Being Evil: 50%"
+    ],
+    "abilities": [
+        {
+            "name": "Protect (Ochroń)",
+            "icon": "abilities/Protect.png"
+        }
+    ],
+    "tip": "Spraw aby twój cel dowiedział się że jesteś jego sprzymierzeńcem."
+}

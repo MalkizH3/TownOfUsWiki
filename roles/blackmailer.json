@@ -1,0 +1,20 @@
+{
+    "name": "Blackmailer",
+    "color": "#FF0000",
+    "team": "impostor",
+    "icon": "icons/blackmailer.png",
+    "description": "soon",
+    "settings": [
+        "Probability Of Appearing: x%",
+        "Initial Blackmail Cooldown: 10,0s",
+        "Only Target Sees Blackmail: ✗",
+        "Maximum People Alive Where Blackmailed Can Vote: 5"
+    ],
+    "abilities": [
+        {
+            "name": "brak",
+            "icon": "abilities/none.png"
+        }
+    ],
+    "tip": ""
+}

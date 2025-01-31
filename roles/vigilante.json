@@ -5,7 +5,7 @@
     "icon": "icons/vigilante.png",
     "description": "Crewmate, który może zabijać podczas spotkań. Podczas spotkania, Vigilante może wybrać, kogo zabić, zgadując jego rolę. Jeśli jednak zgadnie źle, to sam ginie.",
     "settings": [
-        "TODO"
+        "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
@@ -13,5 +13,5 @@
             "icon": "abilities/none.png"
         }
     ],
-    "tip": "TODO"
+    "tip": "Poczekaj aż przyłapiesz mordercę na używaniu specjalnej umiejętności, wtedy przy najbliższym spotkaniu bez problemu go pokonasz."
 }
