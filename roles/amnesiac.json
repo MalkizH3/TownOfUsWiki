@@ -11,8 +11,8 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Remember (Przypomnij sobie)",
+            "icon": "abilities/Remember.png"
         }
     ],
     "tip": ""
