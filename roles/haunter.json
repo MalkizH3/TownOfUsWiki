@@ -2,7 +2,7 @@
     "name": "Haunter",
     "color": "#D4D4D4",
     "team": "crewmate",
-    "icon": "icons/Haunter.png",
+    "icon": "icons/haunter.png",
     "description": "soon",
     "settings": [
         "Probability Of Appearing: x%"

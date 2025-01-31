@@ -2,7 +2,7 @@
     "name": "Hypnotist",
     "color": "#FF0000",
     "team": "impostor",
-    "icon": "icons/Hypnotist.png",
+    "icon": "icons/hypnotist.png",
     "description": "soon",
     "settings": [
         "Probability Of Appearing: x%",

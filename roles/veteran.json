@@ -13,8 +13,8 @@
     ],
     "abilities": [
         {
-            "name": "Safeguard (Czujność)",
-            "icon": "abilities/vest.png"
+            "name": "Alert (Czujność)",
+            "icon": "abilities/Alert.png"
         }
     ],
     "tip": "Używaj zdolności w miejscach szczególnie odosobnionych. To są idealne miejsca na zbrodnie..."
