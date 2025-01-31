@@ -14,6 +14,10 @@
     ],
     "abilities": [
         {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
             "name": "Plant (Postaw bombę)",
             "icon": "abilities/Plant.png"
         },
