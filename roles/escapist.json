@@ -15,6 +15,10 @@
             "icon": "abilities/Kill.png"
         },
         {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
+        },
+        {
             "name": "Mark (Oznacz)",
             "icon": "abilities/Mark.png"
         },

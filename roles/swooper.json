@@ -16,6 +16,10 @@
             "icon": "abilities/Kill.png"
         },
         {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
+        },
+        {
             "name": "Swoop (Stań się niewidzialny)",
             "icon": "abilities/Swoop.png"
         }

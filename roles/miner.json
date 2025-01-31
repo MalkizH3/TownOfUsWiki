@@ -18,6 +18,10 @@
             "icon": "abilities/Vent.png"
         },
         {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
+        },
+        {
             "name": "Mine (Wykop)",
             "icon": "abilities/Mine.png"
         }

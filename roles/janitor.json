@@ -17,6 +17,10 @@
             "icon": "abilities/Vent.png"
         },
         {
+            "name": "Sabotage (Sabotuj)",
+            "icon": "abilities/Sabotage.png"
+        },
+        {
             "name": "Clean (Sprzątnij ciało)",
             "icon": "abilities/Janitor.png"
         }
