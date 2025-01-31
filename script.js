@@ -1,6 +1,10 @@
 async function loadRoles() {
     const roleFiles = 
-    ["aurial.json", "engineer.json", "investigator.json", "jailor.json", "medic.json", "medium.json", "morphling.json", "mystic.json", "oracle.json", "politician.json", "prosecutor.json", "seer.json", "sheriff.json", "snitch.json", "spy.json", "swapper.json", "tracker.json", "transporter.json", "trapper.json", "veteran.json", "vigilante.json", "warden.json"]
+    ["altruist.json", "amnesiac.json", "arsonist.json", "aurial.json", "blackmailer.json", "bomber.json", "deputy.json", "detective.json", "doomsayer.json", "engineer.json", "escapist.json", "executioner.json",
+        "glitch.json", "grenadier.json", "guardian_angel.json", "haunter.json", "hunter.json", "hypnotist.json", "imitator.json", "investigator.json", "jailor.json", "janitor.json", "jester.json",
+        "juggernaut.json", "lookout.json", "medic.json", "medium.json", "miner.json", "morphling.json", "mystic.json", "oracle.json", "phantom.json", "plaguebearer.json", "politician.json", "prosecutor.json", 
+        "scavenger.json", "seer.json", "sheriff.json", "snitch.json", "soul_collector.json", "spy.json", "survivor.json", "swapper.json", "swooper.json", "tracker.json", "traitor.json", "transporter.json", 
+        "trapper.json", "undertaker.json", "vampire.json", "venerer.json", "veteran.json", "vigilante.json", "warden.json", "warlock.json", "werewolf.json"]
     const roles = await Promise.all(
         roleFiles.map(async (file) => {
             const response = await fetch(`roles/${file}`);
