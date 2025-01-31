@@ -3,7 +3,7 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/warlock.png",
-    "description": "soon",
+    "description": "Impostor, który może ładować manę. Gdy naładuje ją do 100%, może zabić wielu graczy bez cooldownu, pod warunkiem że zrobi to w jednej sekundzie. Warlock nie musi w pełni naładować many, aby móc zabijać, bez naładowanej many zabija jak zwykły impostor.",
     "settings": [
         "Probability Of Appearing: x%",
         "Time It Takes To Fully Charge: 25,0s",
@@ -11,8 +11,12 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
         }
     ],
     "tip": ""

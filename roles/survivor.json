@@ -3,7 +3,7 @@
     "color": "#FFEB4D",
     "team": "neutral",
     "icon": "icons/survivor.png",
-    "description": "soon",
+    "description": "Survivor to neutralna rola, która wygrywa, po prostu przeżywając do końca rozgrywki. Jednak jeśli grę wygrają Lovers lub neutralna zła rola, Survivor przegrywa. Posiada umiejętność dająca czasową ochronę przed zabójstwem.",
     "settings": [
         "Probability Of Appearing: x%",
         "Vest Cooldown: 25,0s",
@@ -13,8 +13,8 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Safeguard (Ochroń się)",
+            "icon": "abilities/Vest.png"
         }
     ],
     "tip": ""

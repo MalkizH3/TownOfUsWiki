@@ -3,7 +3,7 @@
     "color": "#FF4D00",
     "team": "neutral",
     "icon": "icons/arsonist.png",
-    "description": "soon",
+    "description": "Neutralna rola z własnym warunkiem zwycięstwa. Ma dwie zdolności: <br>Polewanie innych graczy benzyną <br>Zapalanie wszystkich polanych graczy. Arsonist może mieć maksymalnie 5 oblanych osób jednocześnie. Arsonist musi być ostatnim zabójcą, aby wygrać grę.",
     "settings": [
         "Probability Of Appearing: x%",
         "Douse Cooldown: 35,0s",
@@ -13,8 +13,12 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Douse (Oblej)",
+            "icon": "abilities/Douse.png"
+        },
+        {
+            "name": "Ignite (Podpal)",
+            "icon": "abilities/Ignite.png"
         }
     ],
     "tip": ""

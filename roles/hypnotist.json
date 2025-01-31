@@ -3,15 +3,27 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/hypnotist.png",
-    "description": "soon",
+    "description": "Impostor, który może hipnotyzować graczy. Gdy wystarczająca liczba osób zostanie zahipnotyzowana, Hypnotist może uwolnić Masową Histerię. Po jej aktywacji, wszyscy zahipnotyzowani gracze będą widzieć pozostałych graczy jako siebie, zamaskowanych lub niewidzialnych. Po śmierci Hypnotista, Masowa Histeria zostaje usunięta, a gracze zaczynają widzieć wszystkich normalnie.",
     "settings": [
         "Probability Of Appearing: x%",
         "Hypnotize Cooldown: 25,0s"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Hypnotize (Zahipnotyzuj)",
+            "icon": "abilities/Hypnotise.png"
+        },
+        {
+            "name": "Hysteria (Histeria)",
+            "icon": "abilities/Hysteria.png"
         }
     ],
     "tip": ""

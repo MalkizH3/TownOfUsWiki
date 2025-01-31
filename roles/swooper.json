@@ -3,7 +3,7 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/swooper.png",
-    "description": "soon",
+    "description": "Impostor, który może chwilowo stać się niewidzialny.",
     "settings": [
         "Probability Of Appearing: x%",
         "Swoop Cooldown: 25,0s",
@@ -12,8 +12,12 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Swoop (Stań się niewidzialny)",
+            "icon": "abilities/Swoop.png"
         }
     ],
     "tip": ""

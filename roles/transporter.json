@@ -3,7 +3,7 @@
     "color": "#00ECFF",
     "team": "crewmate",
     "icon": "icons/transporter.png",
-    "description": "soon",
+    "description": "Crewmate, który może dowolnie zamieniać miejscami dwóch wybranych przez siebie graczy. Gracze, którzy zostali przetransportowani, otrzymują powiadomienie w postaci niebieskiego błysku na ekranie.",
     "settings": [
         "Probability Of Appearing: x%",
         "Transport Cooldown: 25,0s",
@@ -12,8 +12,8 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Transport (Przetransportuj)",
+            "icon": "abilities/Transport.png"
         }
     ],
     "tip": ""

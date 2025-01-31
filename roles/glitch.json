@@ -3,7 +3,7 @@
     "color": "#00FF00",
     "team": "neutral",
     "icon": "icons/glitch.png",
-    "description": "soon",
+    "description": "Neutralna rola z własnym warunkiem zwycięstwa. Celem Glitcha jest wyeliminowanie wszystkich graczy. Glitch może hakować graczy, co uniemożliwia zhakowanemu graczowi jakąkolwiek akcję poza chodzeniem po mapie. Glitch może także \"naśladować\" inną osobę, przez co będzie wyglądać dokładnie jak ta osoba.",
     "settings": [
         "Probability Of Appearing: x%",
         "Mimic Cooldown: 25,0s",
@@ -16,8 +16,16 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Hacker (Zhakuj)",
+            "icon": "abilities/Hack.png"
+        },
+        {
+            "name": "Mimic (Naśladuj)",
+            "icon": "abilities/Mimic.png"
         }
     ],
     "tip": ""

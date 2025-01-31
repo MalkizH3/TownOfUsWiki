@@ -3,7 +3,7 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/escapist.png",
-    "description": "soon",
+    "description": "Impostor, który może teleportować się do wybranej wcześniej lokalizacji. Raz na rundę Escapist może oznaczyć miejsce, do którego później będzie mógł się teleportować .",
     "settings": [
         "Probability Of Appearing: x%",
         "Recall Cooldown: 25,0s",
@@ -11,8 +11,16 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Mark (Oznacz)",
+            "icon": "abilities/Mark.png"
+        },
+        {
+            "name": "Recall (Powrót)",
+            "icon": "abilities/Recall.png"
         }
     ],
     "tip": ""

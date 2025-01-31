@@ -3,7 +3,7 @@
     "color": "#8C004D",
     "team": "neutral",
     "icon": "icons/juggernaut.png",
-    "description": "soon",
+    "description": "Neutralna rola z własnym warunkiem zwycięstwa. Specjalną zdolnością Juggernauta jest to, że czas odnowienia zabójstwa skraca się z każdym zabójstwem. Oznacza to, że Juggernaut teoretycznie może mieć czas odnowienia zabójstwa równy 0 sekund! Juggernaut musi być ostatnim zabójcą, aby wygrać grę.",
     "settings": [
         "Probability Of Appearing: x%",
         "Juggernaut Initial Kill Cooldown: 35,0s",
@@ -12,8 +12,8 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
         }
     ],
     "tip": ""

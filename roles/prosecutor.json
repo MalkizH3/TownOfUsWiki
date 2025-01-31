@@ -3,14 +3,14 @@
     "color": "#B38000",
     "team": "crewmate",
     "icon": "icons/prosecutor.png",
-    "description": "soon",
+    "description": "Crewmate, który raz na grę może oskarżyć gracza, co skutkuje jego wygnaniem w danym spotkaniu. Prosecutor również widzi głosy w sposób jawny, nieanonimowy.",
     "settings": [
         "Probability Of Appearing: x%",
         "Prosecutor Dies When Tey Exile A Crewmate: ✓"
     ],
     "abilities": [
         {
-            "name": "brak",
+            "name": "Prosecute (Oskarż)",
             "icon": "abilities/none.png"
         }
     ],

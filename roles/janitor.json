@@ -3,14 +3,22 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/janitor.png",
-    "description": "soon",
+    "description": "Impostor, który może sprzątać ciała. Zarówno jego zdolność zabójstwa, jak i czyszczenia mają wspólny czas odnowienia, co oznacza, że musi wybrać, którą z nich chce użyć.",
     "settings": [
         "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Clean (Sprzątnij ciało)",
+            "icon": "abilities/Janitor.png"
         }
     ],
     "tip": ""

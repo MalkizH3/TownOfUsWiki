@@ -3,7 +3,7 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/bomber.png",
-    "description": "soon",
+    "description": "Impostor, który ma zdolność stawiania bomb zamiast zabijania. Po posadzeniu bomby, ta wybuchnie po określonym czasie. Gdy bomba wybuchnie, zabije wszystkich gracz znajdujących się w zasięgu, także Impostorów.",
     "settings": [
         "Probability Of Appearing: x%",
         "Detonate Delay: 5,0s",
@@ -14,8 +14,8 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Detonate (Detonuj)",
+            "icon": "abilities/Detonate.png"
         }
     ],
     "tip": ""

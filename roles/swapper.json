@@ -3,7 +3,7 @@
     "color": "#66E666",
     "team": "crewmate",
     "icon": "icons/swapper.png",
-    "description": "soon",
+    "description": "Crewmate, który podczas spotkania może zamienić głosy między dwoma graczami. Wszystkie głosy oddane na pierwszego gracza zostaną przeniesione na drugiego i odwrotnie.",
     "settings": [
         "Probability Of Appearing: x%",
         "Swapper Can Button: ✓"
@@ -11,7 +11,7 @@
     "abilities": [
         {
             "name": "Swap (Zamień)",
-            "icon": "abilities/Swap.png"
+            "icon": "abilities/SwapperSwitch.png"
         }
     ],
     "tip": ""

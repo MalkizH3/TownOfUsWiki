@@ -3,7 +3,7 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/undertaker.png",
-    "description": "soon",
+    "description": "Impostor, który może przeciągać i upuszczać ciała.",
     "settings": [
         "Probability Of Appearing: x%",
         "Drag Cooldown: 25,0s",
@@ -13,8 +13,20 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Drag (Przeciągnij)",
+            "icon": "abilities/Drag.png"
+        },
+        {
+            "name": "Drop (Upuść)",
+            "icon": "abilities/Drop.png"
         }
     ],
     "tip": ""

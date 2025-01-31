@@ -9,8 +9,8 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Guess (zgadnij)",
+            "icon": "abilities/Guess.png"
         }
     ],
     "tip": "Poczekaj aż przyłapiesz mordercę na używaniu specjalnej umiejętności, wtedy przy najbliższym spotkaniu bez problemu go pokonasz."

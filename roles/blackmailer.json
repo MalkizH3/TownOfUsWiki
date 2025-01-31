@@ -3,7 +3,7 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/blackmailer.png",
-    "description": "soon",
+    "description": "Impostor, który może wyciszyć graczy podczas spotkań. W każdej rundzie Blackmailer może podejść do kogoś i go szantażować. Szantaż uniemożliwia zaszantażowanej osobie mówienie oraz głosowanie podczas następnego spotkania.",
     "settings": [
         "Probability Of Appearing: x%",
         "Initial Blackmail Cooldown: 10,0s",
@@ -12,8 +12,16 @@
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Blackmail (Szantażuj)",
+            "icon": "abilities/Blackmail.png"
         }
     ],
     "tip": ""

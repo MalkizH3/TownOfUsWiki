@@ -3,15 +3,23 @@
     "color": "#FF0000",
     "team": "impostor",
     "icon": "icons/miner.png",
-    "description": "soon",
+    "description": "Impostor, który może tworzyć nowe wentylacje. Te wentylacje łączą się tylko ze sobą, tworząc nową ścieżkę.",
     "settings": [
         "Probability Of Appearing: x%",
         "Mine Cooldown: 25,0s"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Kill (Zabij)",
+            "icon": "abilities/Kill.png"
+        },
+        {
+            "name": "Vent (Wejdź do wentylacji)",
+            "icon": "abilities/Vent.png"
+        },
+        {
+            "name": "Mine (Wykop)",
+            "icon": "abilities/Mine.png"
         }
     ],
     "tip": ""

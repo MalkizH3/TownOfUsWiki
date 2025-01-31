@@ -10,7 +10,7 @@
     ],
     "abilities": [
         {
-            "name": "Vent (Wentylacja)",
+            "name": "Vent (Wejdź do wentylacji)",
             "icon": "abilities/Vent.png"
         },
         {
