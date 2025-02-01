@@ -3,14 +3,14 @@
     "color": "#4D4DFF",
     "team": "crewmate",
     "icon": "icons/detective.png",
-    "description": "soon",
+    "description": "Crewmate, który może badać miejsca zbrodni i następnie sprawdzać graczy. Najpierw musi znaleźć miejsce zbrodni i je zbadać. W tej samej lub kolejnych rundach może następnie sprawdzić graczy, aby ustalić, czy byli zabójcami. Jeśli sprawdzany gracz jest zabójcą lub znajdował się w pobliżu miejsca zbrodni, otrzyma czerwony błysk. W przeciwnym razie błysk będzie zielony.",
     "settings": [
         "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Examine (Zbadaj)",
+            "icon": "abilities/Examine.png"
         }
     ],
     "tip": ""
