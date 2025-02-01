@@ -3,14 +3,14 @@
     "color": "#FFCC00",
     "team": "crewmate",
     "icon": "icons/deputy.png",
-    "description": "soon",
+    "description": "Crewmate, który może obozować innych graczach. Jeśli obozowany gracz zostanie zabity, Deputy otrzyma alert. Podczas następnego spotkania może spróbować zastrzelić zabójcę. Jeśli trafi, zginie a jeśli nie, nic się nie dzieje.",
     "settings": [
         "Probability Of Appearing: x%"
     ],
     "abilities": [
         {
-            "name": "brak",
-            "icon": "abilities/none.png"
+            "name": "Camp (Zobozuj)",
+            "icon": "abilities/Camp.png"
         }
     ],
     "tip": ""
