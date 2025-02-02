@@ -192,12 +192,10 @@ body {
     background: rgba(80, 80, 80, 0.1);
     border-radius: 6px;
     padding: 15px;
-    margin-bottom: 20px;
 }
 .settings-list h4 {
     font-size: 42px;
     margin-top: 0;
-    margin-bottom: 20px;
     color: #fff;
 }
 .ability-list {
